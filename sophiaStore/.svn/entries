@@ -1,0 +1,40 @@
+10
+
+dir
+1972
+http://svn.dgsis.com/basic/branches/sophia/apps/basic/modules/sophiaStore
+http://svn.dgsis.com/basic
+
+
+
+2012-03-09T20:53:56.046963Z
+1486
+robrojas
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+020cd7c7-efe5-4771-8302-a0f769231384
+
+actions
+dir
+
+config
+dir
+
+lib
+dir
+
+templates
+dir
+

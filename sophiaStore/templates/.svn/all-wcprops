@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/basic/!svn/ver/1486/branches/sophia/apps/basic/modules/sophiaStore/templates
+END
+formOfPaymentSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/!svn/ver/946/branches/sophia/apps/basic/modules/sophiaStore/templates/formOfPaymentSuccess.php
+END
+shoppingCart2Success.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/!svn/ver/845/branches/sophia/apps/basic/modules/sophiaStore/templates/shoppingCart2Success.php
+END
+payMethodsSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/basic/!svn/ver/1003/branches/sophia/apps/basic/modules/sophiaStore/templates/payMethodsSuccess.php
+END
+_form_of_payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/basic/!svn/ver/1486/branches/sophia/apps/basic/modules/sophiaStore/templates/_form_of_payment.php
+END
+_categories.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/basic/!svn/ver/1273/branches/sophia/apps/basic/modules/sophiaStore/templates/_categories.php
+END
+shoppingCartSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/!svn/ver/1373/branches/sophia/apps/basic/modules/sophiaStore/templates/shoppingCartSuccess.php
+END
+_payment_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/basic/!svn/ver/926/branches/sophia/apps/basic/modules/sophiaStore/templates/_payment_form.php
+END
+paymentInformationSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/basic/!svn/ver/1003/branches/sophia/apps/basic/modules/sophiaStore/templates/paymentInformationSuccess.php
+END
+_cart_articles.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/basic/!svn/ver/1486/branches/sophia/apps/basic/modules/sophiaStore/templates/_cart_articles.php
+END
+paymentListSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/basic/!svn/ver/1003/branches/sophia/apps/basic/modules/sophiaStore/templates/paymentListSuccess.php
+END
+_slider_store.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/basic/!svn/ver/736/branches/sophia/apps/basic/modules/sophiaStore/templates/_slider_store.php
+END
+_path.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/basic/!svn/ver/1273/branches/sophia/apps/basic/modules/sophiaStore/templates/_path.php
+END
+payExternalClientSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/basic/!svn/ver/926/branches/sophia/apps/basic/modules/sophiaStore/templates/payExternalClientSuccess.php
+END
+loginToStoreSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/!svn/ver/1486/branches/sophia/apps/basic/modules/sophiaStore/templates/loginToStoreSuccess.php
+END
+_more_carts.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/basic/!svn/ver/1431/branches/sophia/apps/basic/modules/sophiaStore/templates/_more_carts.php
+END
+showArticleSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/basic/!svn/ver/1446/branches/sophia/apps/basic/modules/sophiaStore/templates/showArticleSuccess.php
+END
+showArticle2Success.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/basic/!svn/ver/796/branches/sophia/apps/basic/modules/sophiaStore/templates/showArticle2Success.php
+END
+_form_payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/basic/!svn/ver/1010/branches/sophia/apps/basic/modules/sophiaStore/templates/_form_payment.php
+END
+listArticleSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/basic/!svn/ver/1431/branches/sophia/apps/basic/modules/sophiaStore/templates/listArticleSuccess.php
+END
+_article_thumbnails.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/!svn/ver/1441/branches/sophia/apps/basic/modules/sophiaStore/templates/_article_thumbnails.php
+END
+_related_articles.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/basic/!svn/ver/1446/branches/sophia/apps/basic/modules/sophiaStore/templates/_related_articles.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/basic/!svn/ver/1486/branches/sophia/apps/basic/modules/sophiaStore/templates/indexSuccess.php
+END
+_tag_cloud.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/basic/!svn/ver/1273/branches/sophia/apps/basic/modules/sophiaStore/templates/_tag_cloud.php
+END
+itemDesignSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/basic/!svn/ver/796/branches/sophia/apps/basic/modules/sophiaStore/templates/itemDesignSuccess.php
+END
+indexDesignSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/basic/!svn/ver/926/branches/sophia/apps/basic/modules/sophiaStore/templates/indexDesignSuccess.php
+END
+procesarPagoSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/basic/!svn/ver/1486/branches/sophia/apps/basic/modules/sophiaStore/templates/procesarPagoSuccess.php
+END

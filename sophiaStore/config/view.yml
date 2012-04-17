@@ -1,0 +1,12 @@
+default:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    title:        Sophia Learning
+    description:  Sophia Learning
+    keywords:     sophia, learning
+    language:     es
+    robots:       index, follow
+  has_layout:     true
+  layout:         layout_sophia_store
